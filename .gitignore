@@ -1,0 +1,6 @@
+/target
+*.mca
+*.dat
+*.nbt
+**output
+test
